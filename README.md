@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome lorem ipsum description app.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Lorem ipsum description features app.
 
 ## Getting started
 
